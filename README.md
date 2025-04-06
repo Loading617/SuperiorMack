@@ -1,2 +1,2 @@
 # SuperiorMack
-Audiomack Desktop App
+Audiomack for Windows but with More Features
